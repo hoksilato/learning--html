@@ -1,0 +1,32 @@
+/* Webfont: RobotoSlab-Bold */
+@font-face {
+  font-family: 'RobotoSlab-Bold';
+  src: url('../fonts/RobotoSlab-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+/* Webfont: RobotoSlab-Light */
+@font-face {
+  font-family: 'RobotoSlab-Light';
+  src: url('../fonts/RobotoSlab-Light.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+/* Webfont: RobotoSlab-Regular */
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url('../fonts/RobotoSlab-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+/* Webfont: RobotoSlab-Thin */
+@font-face {
+  font-family: 'RobotoSlab-Thin';
+  src: url('fonts/RobotoSlab-Thin.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
